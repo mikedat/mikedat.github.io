@@ -7,6 +7,6 @@
     <title>Mi Página de GitHub</title>
 </head>
 <body>
-    <p>¡Hola Mundo!</p>
+    <p style="color: red;">¡Hola Mundo!</p>
 </body>
 </html>
